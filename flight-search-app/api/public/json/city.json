@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Frankfurt",
+    "code": "FRA"
+  },
+  {
+    "name": "Rome",
+    "code": "ROM"
+  },
+  {
+    "name": "Mumbai",
+    "code": "MUM"
+  },
+  {
+    "name": "London",
+    "code": "LHR"
+  },
+  {
+    "name": "New York",
+    "code": "JFK"
+  },
+  {
+    "name": "New York",
+    "code": "EWR"
+  },
+  {
+    "name": "Delhi",
+    "code": "DEL"
+  }
+]

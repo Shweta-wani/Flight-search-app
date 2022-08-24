@@ -1,0 +1,122 @@
+[
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2022-08-24",
+    "returnDate": "2022-08-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 128.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "LHR",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 125.26,
+      "currency": "EUR"
+    },
+    "offerType": "LowPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "DEL",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-28",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 128.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "DEL",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-30",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 120.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "JFK",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 100.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "JFK",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-28",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 125.26,
+      "currency": "EUR"
+    },
+    "offerType": "LowPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "ROM",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-27",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 101.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "ROM",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-28",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 200.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "ROM",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-28",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 300.26,
+      "currency": "EUR"
+    },
+    "offerType": "LowPrice"
+  },
+  {
+    "origin": "FRA",
+    "destination": "ROM",
+    "departureDate": "2022-08-26",
+    "returnDate": "2022-08-28",
+    "seatAvailability": 7,
+    "price": {
+      "amount": 100.26,
+      "currency": "EUR"
+    },
+    "offerType": "BestPrice"
+  }
+]
